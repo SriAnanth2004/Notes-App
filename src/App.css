@@ -1,0 +1,61 @@
+.inputHolder{
+    resize: none;
+    font-size: 18px;
+    font-weight: bold;
+    color: #f3ecf8;
+    background-color: transparent;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    scrollbar-width: none;
+    
+}
+
+.descriptionHolder{
+    resize: none;
+    font-size: 18px;
+    font-weight: 300;
+    color: #f3ecf8;
+    background-color: transparent;
+    font-family: Arial, sans-serif;
+    letter-spacing: 1px;
+    scrollbar-width: none;
+}
+.mainPage{
+    background-color: #e8e8e8;
+    min-height: 100vh;
+    max-height: fit-content;
+    background-image: url("/notesbackgroundimage.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+.addNoteBtn{
+    background-color: #a66ec9;
+    margin: 2vh;
+    height : 10vh;
+    width: 30vh;
+    border-radius: 5vh;
+    border-color: black;
+    color: #d7dbe3;
+    font-size: 4vh;
+}
+.mainHead{
+    color: #ffffffcb;
+    font-size: 10vh;
+}
+.newNoteHead{
+    color: #ffffffcb;
+    font-size: 6vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+.notesWindow{
+    background-color: #ffffff36;
+    border-radius: 5vh;
+}
+.NewInput{
+    color: #fff;
+}
+.Exit_button{
+    background-color:transparent;
+    color: #fff;
+}
