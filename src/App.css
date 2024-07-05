@@ -7,7 +7,7 @@
     font-family: Arial, sans-serif;
     letter-spacing: 1px;
     scrollbar-width: none;
-    
+    border-color: #ffffff67;
 }
 
 .descriptionHolder{
@@ -19,6 +19,7 @@
     font-family: Arial, sans-serif;
     letter-spacing: 1px;
     scrollbar-width: none;
+    border-color: #ffffff67;
 }
 .mainPage{
     background-color: #e8e8e8;
